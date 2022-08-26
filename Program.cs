@@ -6,7 +6,7 @@ namespace hello
     {
         static void Main(string[] args)
         {
-            string name = "wura!!";
+            string name = "wura!!!";
             Console.WriteLine(name);
             Console.ReadLine();
 
