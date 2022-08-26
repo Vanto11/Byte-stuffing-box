@@ -37,8 +37,8 @@ public class SetamCommandManager
     {
 
     }
-    //指令池
-    private void CommandList(MessageBody message)
+    //指令回调
+    private void ReponseCommand(MessageBody message)
     {
         
     }
