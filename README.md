@@ -1,2 +1,3 @@
 # Byte-stuffing-box
-100010111100100111001
+
+> wuhu
